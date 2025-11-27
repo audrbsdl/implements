@@ -1,5 +1,5 @@
 '''
-Transpose of a Matrix의 Docstring
+Transpose of a Matrix
 problem link: https://www.deep-ml.com/problems/2
 '''
 
