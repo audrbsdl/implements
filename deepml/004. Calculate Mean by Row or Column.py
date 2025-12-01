@@ -1,6 +1,6 @@
 '''
 Calculate Mean by Row or Column
-problem link: https://www.deep-ml.com/problems/2
+problem link: https://www.deep-ml.com/problems/4
 '''
 import numpy as np
 
